@@ -1,0 +1,18 @@
+{
+  "recommendations": [
+    "mikael.angular-beastcode",
+    "coenraads.bracket-pair-colorizer",
+    "dsznajder.es7-react-js-snippets",
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    // "davidanson.vscode-markdownlint",
+    "vscode-icons-team.vscode-icons",
+    "syler.sass-indented",
+    "visualstudioexptteam.vscodeintellicode",
+    "eamodio.gitlens",
+    "alefragnani.bookmarks",
+    "dracula-theme.theme-dracula",
+    "formulahendry.auto-rename-tag"
+    // "formulahendry.auto-close-tag"
+  ]
+}
